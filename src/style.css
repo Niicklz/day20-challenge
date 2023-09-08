@@ -65,7 +65,7 @@ span {
   opacity: 0.4;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  animation: rippleEffect 1s linear;
+  animation: rippleEffect 0.2s linear;
   
 }
 
