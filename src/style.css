@@ -62,10 +62,11 @@ button {
 span {
   position: absolute;
   background-color: #fff;
-  opacity: 0.4;
+  opacity: 0.3;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  animation: rippleEffect 0.5s linear;
+  animation: rippleEffect 0.35s linear;
+  pointer-events: none;
   
 }
 
